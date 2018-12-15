@@ -27,3 +27,6 @@ Technical information for Linux server configuration project.
 16. Configure the VirtualHost for the application.
 17. Disable the root login.
 18. Run the application
+
+## List of third-party resources
+https://github.com/SDey96/Udacity-Linux-Server-Configuration-Project/blob/master/README.md
